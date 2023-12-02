@@ -1,3 +1,10 @@
+/*
+Rohan Kakade
+02/12/23
+Program to find the modulus and argument of a complex number
+Allows adding and subtracting two complex numbers using operator overloading
+*/
+
 #include "mbed.h"
 
 //definin a new data type called "complex_numbers"
